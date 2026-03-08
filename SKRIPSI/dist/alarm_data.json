@@ -1,0 +1,39 @@
+[
+  {
+    "aktif": true,
+    "audio_path": "C:\\badduungg\\SKRIPSI\\SKRIPSI\\dist\\alarm_audio\\rekaman_1772753581.wav",
+    "dibuat": "2026-03-06 06:33:21",
+    "id": "1772753601068",
+    "label": "Alarm",
+    "public": false,
+    "synced_at": "2026-03-06 06:57:55",
+    "tanggal": "2026-03-06",
+    "tipe_audio": "rekam",
+    "waktu": "06:33"
+  },
+  {
+    "aktif": true,
+    "audio_path": "C:\\Users\\jhese_0cxr2l3\\Downloads\\alarm_audio\\rekaman_1772754983.wav",
+    "dibuat": "2026-03-06 06:56:35",
+    "favorite": true,
+    "id": "1772754995790",
+    "label": "Alarm",
+    "public": false,
+    "synced_at": "2026-03-06 06:57:55",
+    "tanggal": "2026-03-06",
+    "tipe_audio": "rekam",
+    "waktu": "06:56"
+  },
+  {
+    "aktif": true,
+    "audio_path": "C:\\Users\\jhese_0cxr2l3\\Downloads\\alarm_audio\\rekaman_1772754983.wav",
+    "dibuat": "2026-03-06 06:57:01",
+    "id": "1772755021361",
+    "label": "Jadwal Saya 1 Menit Ke Depan",
+    "public": false,
+    "synced_at": "2026-03-06 06:57:55",
+    "tanggal": "2026-03-06",
+    "tipe_audio": "rekam",
+    "waktu": "06:58"
+  }
+]

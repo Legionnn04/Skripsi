@@ -1,0 +1,47 @@
+[
+  {
+    "alarm_id": "1772753320693",
+    "audio_path": "C:\\badduungg\\SKRIPSI\\SKRIPSI\\alarm_audio\\rekaman_1772752811.wav",
+    "catatan": "jadwal saya jam 2 besok",
+    "dibuat": "2026-03-06 06:28:40",
+    "id": "1772753320693",
+    "judul": "Jadwal Saya Jam 2",
+    "lokasi": "",
+    "prioritas": "normal",
+    "public": false,
+    "synced_at": "2026-03-06 06:36:48",
+    "tanggal": "2026-03-07",
+    "tipe_audio": "rekam",
+    "waktu": "02:00"
+  },
+  {
+    "alarm_id": "1772753552596",
+    "audio_path": "C:\\badduungg\\SKRIPSI\\SKRIPSI\\dist\\alarm_audio\\rekaman_1772753527.wav",
+    "catatan": "jadwal saya 1 menit ke depan",
+    "dibuat": "2026-03-06 06:31:36",
+    "id": "1772753496718",
+    "judul": "Jadwal Saya 1 Menit Ke Depan",
+    "lokasi": "",
+    "prioritas": "normal",
+    "public": false,
+    "synced_at": "2026-03-06 06:36:48",
+    "tanggal": "2026-03-06",
+    "tipe_audio": "rekam",
+    "waktu": "06:32"
+  },
+  {
+    "alarm_id": "1772755021361",
+    "audio_path": "C:\\Users\\jhese_0cxr2l3\\Downloads\\alarm_audio\\rekaman_1772754983.wav",
+    "catatan": "jadwal saya 1 menit ke depan",
+    "dibuat": "2026-03-06 06:57:01",
+    "id": "1772755021361",
+    "judul": "Jadwal Saya 1 Menit Ke Depan",
+    "lokasi": "",
+    "prioritas": "normal",
+    "public": false,
+    "synced_at": "2026-03-06 06:57:41",
+    "tanggal": "2026-03-06",
+    "tipe_audio": "rekam",
+    "waktu": "06:58"
+  }
+]
